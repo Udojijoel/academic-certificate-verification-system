@@ -8,7 +8,7 @@ A decentralized platform for issuing and verifying academic certificates as Soul
 ![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)
 ![TypeScript](https://img.shields.io/badge/TypeScript-5.0-blue?style=flat-square)
 
-## ✨ Features
+## Features
 
 - **Soulbound Certificates** - Non-transferable NFTs permanently bound to student wallets
 - **Institution Authorization** - Multi-tier access control for approved institutions
@@ -43,7 +43,7 @@ A decentralized platform for issuing and verifying academic certificates as Soul
 
 ---
 
-## 🔄 How It Works
+## How It Works
 
 CertChain creates a tamper-proof link between physical/digital certificates and blockchain records. Here's the complete workflow:
 
@@ -713,7 +713,7 @@ certchain/
 
 ---
 
-## 🧪 Testing
+## Testing
 
 ### Smart Contract Tests
 
@@ -730,7 +730,7 @@ npx hardhat coverage
 
 ---
 
-## 🔒 Security Features
+## Security Features
 
 | Feature                  | Implementation                  |
 | ------------------------ | ------------------------------- |
@@ -742,7 +742,7 @@ npx hardhat coverage
 
 ---
 
-## 🐛 Troubleshooting
+## Troubleshooting
 
 ### Common Issues
 
@@ -783,7 +783,7 @@ Deploy via Lovable:
 
 ---
 
-## 📜 Smart Contract Details
+## Smart Contract Details
 
 ### Gas Estimates (Polygon)
 
@@ -806,19 +806,3 @@ Deploy via Lovable:
 | `verifyCertificateByHash()` | Public            | Verify by file hash         |
 
 ---
-
-## 📄 License
-
-MIT License - see [LICENSE](LICENSE) for details.
-
----
-
-## 🤝 Contributing
-
-Contributions welcome! Please read our contributing guidelines before submitting PRs.
-
----
-
-<p align="center">
-  Built with ❤️ using <a href="https://lovable.dev">Lovable</a>
-</p>
